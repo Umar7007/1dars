@@ -1,0 +1,35 @@
+header{
+    background-color: #2B3844;
+}
+.hi{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+b{
+    margin-top: 30px;
+}
+input{
+    margin-left: 70px;
+    margin-top: 40px;
+    border: none;
+    background-color: #2B3844;
+    width: 480px;
+    height: 58px;
+}
+main{
+    background-color: #202C36;
+  display: flex;
+  height: 400px;
+  justify-content: space-around;
+}
+.he{
+    background-color: #2B3844;
+    width: 255px;
+    height: 245px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.in{
+   background-color: #202C36;
+}
